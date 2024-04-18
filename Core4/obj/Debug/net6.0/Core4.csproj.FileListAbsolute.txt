@@ -1,0 +1,11 @@
+C:\Users\2022\Desktop\Task\Core4\bin\Debug\net6.0\Core4.deps.json
+C:\Users\2022\Desktop\Task\Core4\bin\Debug\net6.0\Core4.dll
+C:\Users\2022\Desktop\Task\Core4\bin\Debug\net6.0\Core4.pdb
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\Core4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\Core4.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\Core4.AssemblyInfo.cs
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\Core4.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\Core4.dll
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\refint\Core4.dll
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\Core4.pdb
+C:\Users\2022\Desktop\Task\Core4\obj\Debug\net6.0\ref\Core4.dll
